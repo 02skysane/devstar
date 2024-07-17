@@ -362,4 +362,26 @@
             }
         ]
     }
+     "math-toolkit": {
+        "name": "Math Toolkit",
+        "link": "/math-toolkit",
+        "description": "Switch Between Number Systems with Ease",
+        "contributors": [
+            {
+                "name": "Jayesh Jaroli",
+                "githubId": "JayeshJaroli4917"
+                
+                "name": "Prachi Kumathekar",
+                 "GithubId": "02skysane"
+
+                "Name": "Shivanshu Kumar",
+                "GithubId": "shivoham79"
+                
+                "Name": "Anupama Patewad",
+                "Github Id": "Anupama-Patewad"
+ 
+
+            }
+        ]
+    }
 }
